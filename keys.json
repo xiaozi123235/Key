@@ -1,40 +1,18 @@
 {
   "keys": {
-    "PDqJACMendv2AcqzoHoxKiHJP63e77tA": {
-      "id": "PDqJACMendv2AcqzoHoxKiHJP63e77tA",
+    "2s0H5La84YDOPPXvGWHFrkSRcvIYB8Oe": {
+      "id": "2s0H5La84YDOPPXvGWHFrkSRcvIYB8Oe",
       "type": "github",
-      "createdAt": 1757042371545,
+      "createdAt": 1757045236741,
       "lastUsed": null,
       "usageCount": 0,
-      "description": "",
+      "description": "自定义密钥",
       "isActive": true,
-      "maxUsage": 1,
-      "expiresAt": 1757128771545
-    },
-    "Cqyp1U4X0FuCQzbIxG1jAktkQjqlAuC9": {
-      "id": "Cqyp1U4X0FuCQzbIxG1jAktkQjqlAuC9",
-      "type": "github",
-      "createdAt": 1757043232481,
-      "lastUsed": null,
-      "usageCount": 0,
-      "description": "",
-      "isActive": true,
-      "maxUsage": 200,
-      "expiresAt": 1762227232481
-    },
-    "mGGT9tDIHxk06aVBQ9q5gsxCGNxSvWp5": {
-      "id": "mGGT9tDIHxk06aVBQ9q5gsxCGNxSvWp5",
-      "type": "github",
-      "createdAt": 1757043789537,
-      "lastUsed": null,
-      "usageCount": 0,
-      "description": "",
-      "isActive": true,
-      "maxUsage": 1,
-      "expiresAt": 1757907789537
+      "maxUsage": null,
+      "expiresAt": 1772597236741
     }
   },
-  "lastUpdated": 1757043793293,
+  "lastUpdated": 1757045249173,
   "version": "1.0.0",
-  "source": "GitHub授权管理系统"
+  "source": "广州森泽授权管理系统"
 }
