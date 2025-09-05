@@ -7,7 +7,7 @@
       "lastUsed": null,
       "usageCount": 0,
       "description": "自定义密钥",
-      "isActive": false,
+      "isActive": true,
       "maxUsage": null,
       "expiresAt": 1772597236741
     }
@@ -16,3 +16,4 @@
   "version": "1.0.0",
   "source": "GitHub授权管理系统"
 }
+
