@@ -10,9 +10,20 @@
       "isActive": true,
       "maxUsage": 1,
       "expiresAt": 1757128771545
+    },
+    "Cqyp1U4X0FuCQzbIxG1jAktkQjqlAuC9": {
+      "id": "Cqyp1U4X0FuCQzbIxG1jAktkQjqlAuC9",
+      "type": "github",
+      "createdAt": 1757043232481,
+      "lastUsed": null,
+      "usageCount": 0,
+      "description": "",
+      "isActive": true,
+      "maxUsage": 200,
+      "expiresAt": 1762227232481
     }
   },
-  "lastUpdated": 1757042388105,
+  "lastUpdated": 1757043238754,
   "version": "1.0.0",
-  "source": "GitHub授权管理系统"
+  "source": "广州森泽授权管理系统"
 }
