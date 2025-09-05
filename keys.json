@@ -7,13 +7,12 @@
       "lastUsed": null,
       "usageCount": 0,
       "description": "自定义密钥",
-      "isActive": true,
+      "isActive": false,
       "maxUsage": null,
       "expiresAt": 1772597236741
     }
   },
-  "lastUpdated": 1757045249173,
+  "lastUpdated": 1757046726158,
   "version": "1.0.0",
-  "source": "广州森泽授权管理系统"
+  "source": "GitHub授权管理系统"
 }
-
