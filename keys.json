@@ -1,1 +1,18 @@
-{"keys":{},"lastUpdated":0}
+{
+  "keys": {
+    "PDqJACMendv2AcqzoHoxKiHJP63e77tA": {
+      "id": "PDqJACMendv2AcqzoHoxKiHJP63e77tA",
+      "type": "github",
+      "createdAt": 1757042371545,
+      "lastUsed": null,
+      "usageCount": 0,
+      "description": "",
+      "isActive": true,
+      "maxUsage": 1,
+      "expiresAt": 1757128771545
+    }
+  },
+  "lastUpdated": 1757042388105,
+  "version": "1.0.0",
+  "source": "GitHub授权管理系统"
+}
