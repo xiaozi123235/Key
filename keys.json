@@ -151,8 +151,7 @@
         "YaodongshopTK​",
         "tkyaodongbaihuo​",
         "tkyaohebaihuo​",
-        "taikangyaoheshop",
-        "Abceasjucjm"
+        "taikangyaoheshop"
       ],
       "description": "广州森泽多店铺共享密钥 (146个店铺)"
     },
@@ -165,10 +164,42 @@
         "Vibe Cart Ada"
       ],
       "description": "山西多店铺共享密钥 (1个店铺)"
+    },
+    "KiNf4lODRirW2ikTBvDgFP3153NdRfpg": {
+      "type": "yearly_multi",
+      "isActive": true,
+      "expiresAt": 1790755015492,
+      "createdAt": 1759219015492,
+      "boundStores": [
+        "Abceasjucjm",
+        "TGQQ shop",
+        "HomelyCharm",
+        "TWQQ shop",
+        "TRQQ shop",
+        "shanhu shop",
+        "TYQQ shop",
+        "TUQQ shop",
+        "kuibao shop",
+        "TOQQ shop",
+        "TPQQ shop",
+        "Jusen Selects Premium Products",
+        "Epidemic prevention daily",
+        "ZAEpidemic",
+        "HWQQ shop",
+        "ZBcaicai",
+        "ZChaocai",
+        "HLQQ shop",
+        "GRdhfudf",
+        "XJWbest",
+        "HAQQ shop",
+        "Yaoju shop",
+        "LITaoZi",
+        "MIRaoji",
+        "AFsenze",
+        "AFAsenze",
+        "AFBsenze"
+      ],
+      "description": "xixi多店铺共享密钥 (27个店铺)"
     }
   }
 }
-
-
-
-
