@@ -1,5 +1,15 @@
 {
   "keys": {
+    "1": {
+      "type": "permanent",
+      "isActive": true,
+      "expiresAt": 1790758980661,
+      "createdAt": 1759222980661,
+      "boundStores": [
+        "1"
+      ],
+      "description": "1"
+    },
     "gAM0pUQRWylq2UjnoPts5XOjkWSxKKAS": {
       "type": "yearly_multi",
       "isActive": true,
