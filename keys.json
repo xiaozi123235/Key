@@ -204,6 +204,16 @@
         "666662123"
       ],
       "description": "xixi多店铺共享密钥 (27个店铺)"
+    },
+    "flngpoue9fVWavHqyss05W7EfXFDB3hY": {
+      "type": "permanent",
+      "isActive": true,
+      "expiresAt": 1790759438448,
+      "createdAt": 1759223438448,
+      "boundStores": [
+        "1"
+      ],
+      "description": "未命名密钥"
     }
   }
 }
