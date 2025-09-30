@@ -154,8 +154,16 @@
         "taikangyaoheshop"
       ],
       "description": "多店铺共享密钥 (146个店铺)"
+    },
+    "aWbv0zNTItUYQ8XLM03gvWe44uNqYoca": {
+      "type": "yearly_multi",
+      "isActive": true,
+      "expiresAt": 1790753522917,
+      "createdAt": 1759217522917,
+      "boundStores": [
+        "Vibe Cart Ada"
+      ],
+      "description": "多店铺共享密钥 (1个店铺)"
     }
   }
 }
-
-
