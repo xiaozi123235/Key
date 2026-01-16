@@ -539,6 +539,16 @@
         "MuQQ shop"
       ],
       "description": "xixi多店铺共享密钥 (27个店铺)"
+    },
+    "2XKtj7Ot88IYmybtKgqyDfdVktEToYQP": {
+      "type": "yearly_multi",
+      "isActive": true,
+      "expiresAt": 1800091677611,
+      "createdAt": 1768555677611,
+      "boundStores": [
+        "MOMOTAOO"
+      ],
+      "description": "fairy的密钥"
     }
   }
 }
